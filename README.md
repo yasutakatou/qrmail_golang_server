@@ -1,6 +1,6 @@
 # qrmail_golang_server
 
-メールやファイルを補完するgo製のAPIサーバーです<br>
+メールやファイルを保管するgo製のAPIサーバーです<br>
 
 # 前提<br>
 
